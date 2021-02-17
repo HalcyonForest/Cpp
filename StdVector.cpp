@@ -1,4 +1,3 @@
-// сделано на семинаре 199-1
 #include <algorithm>
 #include <cstddef>
 #include <memory>
